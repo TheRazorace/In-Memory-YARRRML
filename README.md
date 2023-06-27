@@ -1,4 +1,4 @@
-# In-Memory-YARRRML
+# In-Memory YARRRML
 Syntax proposal test cases for in-memory YARRRML.
 
 IMTC001: Pandas dataframe as source 
